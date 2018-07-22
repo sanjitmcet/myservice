@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: deposit-services
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sanjit
+Implementation-Vendor-Id: com.sanjit.app.controller
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/app-services
+Created-By: Maven Integration for Eclipse
+Main-Class: com.sanjit.app.controller.SpringBootApp
+
