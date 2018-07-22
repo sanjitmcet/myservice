@@ -16,7 +16,7 @@ public class AppController {
 	AppImpl manager;
 	
 	
-	@RequestMapping(value = "/UserHitCount", method = RequestMethod.GET, produces = "application/json")	
+	@RequestMapping(value = "/", method = RequestMethod.GET, produces = "application/json")	
 	public @ResponseBody UserHitCount hotelProfileDeposit() {		
 		return manager.getUserHitCount();
 		
